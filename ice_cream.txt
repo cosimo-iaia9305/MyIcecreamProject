@@ -5,3 +5,5 @@ I am changing stuff now
 this is new
 
 seeing the difference between staged an unstaged
+
+no adding more changes after the last commit
