@@ -1,9 +1,3 @@
-whatever
-
-I am changing stuff now
-
-this is new
-
-seeing the difference between staged an unstaged
-
-no adding more changes after the last commit
+1. Vanilla
+2. Banana
+3. Lemon
