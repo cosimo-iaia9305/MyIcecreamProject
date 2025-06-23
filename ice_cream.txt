@@ -1,0 +1,7 @@
+whatever
+
+I am changing stuff now
+
+this is new
+
+seeing the difference between staged an unstaged
